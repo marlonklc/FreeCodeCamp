@@ -1,2 +1,5 @@
 # FreeCodeCamp
 that repo contains all algorithms and codes of site freecodecamp.org
+
+## Algorithms
+- [Find the Symmetric Difference](https://github.com/marlonklc/FreeCodeCamp/Algorithms/find-the-symmetric-difference.js) 
